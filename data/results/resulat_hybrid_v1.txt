@@ -1,0 +1,111 @@
+
+Logistic regression
+
+Score is: 0.84375
+              precision    recall  f1-score   support
+
+           0       0.89      0.82      0.85        88
+           1       0.80      0.88      0.83        72
+
+    accuracy                           0.84       160
+   macro avg       0.84      0.85      0.84       160
+weighted avg       0.85      0.84      0.84       160
+ 
+
+Score is: 0.83125
+              precision    recall  f1-score   support
+
+           0       0.84      0.85      0.85        88
+           1       0.82      0.81      0.81        72
+
+    accuracy                           0.83       160
+   macro avg       0.83      0.83      0.83       160
+weighted avg       0.83      0.83      0.83       160
+ 
+
+Score is: 0.83125
+              precision    recall  f1-score   support
+
+           0       0.84      0.85      0.85        88
+           1       0.82      0.81      0.81        72
+
+    accuracy                           0.83       160
+   macro avg       0.83      0.83      0.83       160
+weighted avg       0.83      0.83      0.83       160
+ 
+
+
+Random forest
+
+Score is: 0.8
+              precision    recall  f1-score   support
+
+           0       0.82      0.82      0.82        88
+           1       0.78      0.78      0.78        72
+
+    accuracy                           0.80       160
+   macro avg       0.80      0.80      0.80       160
+weighted avg       0.80      0.80      0.80       160
+ 
+
+Score is: 0.8
+              precision    recall  f1-score   support
+
+           0       0.82      0.82      0.82        88
+           1       0.78      0.78      0.78        72
+
+    accuracy                           0.80       160
+   macro avg       0.80      0.80      0.80       160
+weighted avg       0.80      0.80      0.80       160
+ 
+
+
+Knearest Neighbors
+
+Score is: 0.7
+              precision    recall  f1-score   support
+
+           0       0.73      0.73      0.73        88
+           1       0.67      0.67      0.67        72
+
+    accuracy                           0.70       160
+   macro avg       0.70      0.70      0.70       160
+weighted avg       0.70      0.70      0.70       160
+ 
+
+Score is: 0.58125
+              precision    recall  f1-score   support
+
+           0       0.59      0.82      0.68        88
+           1       0.57      0.29      0.39        72
+
+    accuracy                           0.58       160
+   macro avg       0.58      0.55      0.53       160
+weighted avg       0.58      0.58      0.55       160
+ 
+
+Score is: 0.58125
+              precision    recall  f1-score   support
+
+           0       0.59      0.82      0.68        88
+           1       0.57      0.29      0.39        72
+
+    accuracy                           0.58       160
+   macro avg       0.58      0.55      0.53       160
+weighted avg       0.58      0.58      0.55       160
+ 
+
+
+Naive Bayes
+
+Score is: 0.74375
+              precision    recall  f1-score   support
+
+           0       0.81      0.70      0.75        88
+           1       0.69      0.79      0.74        72
+
+    accuracy                           0.74       160
+   macro avg       0.75      0.75      0.74       160
+weighted avg       0.75      0.74      0.74       160
+ 
+
